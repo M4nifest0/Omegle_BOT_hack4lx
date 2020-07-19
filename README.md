@@ -52,7 +52,7 @@ def printlogo():
 
   Version 👁‍🗨 1.0.0
 
- Usage 👌 python Omegle_BOT_hack4lx.py
+ Usage 👌    install Python |  pip install Selenium | pip install PyVirtualDisplay | Run :: python Omegle_BOT_hack4lx.py
 
 
  Channel  Combo List 👍  [![Telegram Chanel](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lxCombo)

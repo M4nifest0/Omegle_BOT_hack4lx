@@ -9,14 +9,15 @@ def space(j):
 
 		
 os.system('cls' if os.name == 'nt' else 'clear')
-space(8);print "------------------------------------------------"
-space(8);print "|       ☠️ M4nifest0 is a security team™🏴‍☠️     |"
-space(8);print "| 🆔 Author: hack4lx                           |"
-space(8);print "| 🆔 YouTube:  https://rb.gy/bo4khz            |"
-space(8);print "| 💀 Telegram Channel: https://t.me/M4nifest0  |"
-space(8);print "| 📞 Contact Me:  https://t.me/hack4lx         |"	
-space(8);print "| 👻 Combo Channel: https://t.me/hack4lxCombo  |"
-space(8);print "------------------------------------------------\n\n"
+space(8);print "---------------------------------------------"
+space(8);print "| M4nifest0 is a security team              |"
+space(8);print "| Author: hack4lx                           |"
+space(8);print "| YouTube:  https://rb.gy/bo4khz            |"
+space(8);print "| Channel: https://t.me/M4nifest0           |"
+space(8);print "| Contact Me:  https://t.me/hack4lx         |"	
+space(8);print "| Combo : https://t.me/hack4lxCombo         |"
+space(8);print "---------------------------------------------\n\n"
+
 
 
 interest = raw_input("Enter the interests Example. friends,girls,fag, >> ")

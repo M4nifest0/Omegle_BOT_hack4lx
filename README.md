@@ -37,8 +37,7 @@ def printlogo():
 
     sudo apt-get install python-pip xserver-xephyr
     sudo pip install selenium pyvirtualdisplay
-    download latest geckodriver https://github.com/mozilla/geckodriver/releases
-    move downloaded file
+    geckodriver v0.26.0 move downloaded file
     sudo mv /path/to/geckodriver /usr/local/bin
 
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
